@@ -55,3 +55,6 @@ Here are some ideas to get you started:
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=foxxw0lf&theme=default">
     </a>
 </div>
+ <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg"
+       alt="snake" />
+  </div>
