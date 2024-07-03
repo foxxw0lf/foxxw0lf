@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 <div id="stats" align="center" style="display: flex; flex-direction: column;">
     <h2>:fire: My Stats</h2>
     <a style="display: flex; align-items: center;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=foxxw0lf&theme=light" alt="GitHub Profile Summary" style="margin-bottom: 10px;" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=foxxw0lf&theme=default" alt="GitHub Profile Summary" style="margin-bottom: 10px;" />
     </a>
     <a style="display: flex;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=foxxw0lf&theme=light" style="margin-right: 10px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=foxxw0lfi&theme=light">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=foxxw0lf&theme=default" style="margin-right: 10px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=foxxw0lf&theme=default">
     </a>
 </div>
