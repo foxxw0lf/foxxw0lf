@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 --<h3 align="center">A passionate full-stack developer from Indonesia</h3>
 -->
   <h1 align="center">Hi there 👋...</h1>
-  <h2 align="center">🌱 I’m currently learning WEB Development, Bot Development, QA Engineer, DevOps Engineer</h2>
+  <p align="center">🌱 I’m currently learning WEB Development, Bot Development, QA Engineer, DevOps Engineer </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foxxw0lf&label=Profile%20views&color=0e75b6&style=flat" alt="foxxw0lf" /> </p>
