@@ -45,6 +45,13 @@ Here are some ideas to get you started:
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="php" width="40" height="40"/> 
 
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=foxxw0lf&show_icons=true&locale=en" alt="foxxw0lf" /></p>
-
+<div id="stats" align="center" style="display: flex; flex-direction: column;">
+    <h2>:fire: My Stats</h2>
+    <a style="display: flex; align-items: center;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=foxxw0lf&theme=light" alt="GitHub Profile Summary" style="margin-bottom: 10px;" />
+    </a>
+    <a style="display: flex;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=foxxw0lf&theme=light" style="margin-right: 10px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=foxxw0lfi&theme=light">
+    </a>
+</div>
