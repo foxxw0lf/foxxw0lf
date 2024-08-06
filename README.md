@@ -55,6 +55,18 @@ Here are some ideas to get you started:
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=foxxw0lf&theme=default">
     </a>
 </div>
- <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg"
-       alt="snake" />
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+      />
+      <img
+        alt="github contribution grid snake animation"
+        src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+      />
+  </picture>
   </div>
