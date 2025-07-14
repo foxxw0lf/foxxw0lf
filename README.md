@@ -8,7 +8,6 @@
 
 ---
 
-[Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31luhtpabuygv4idw6sper63xake&count=(1 ≤ {count} ≤ 10))
 
 ---
 
