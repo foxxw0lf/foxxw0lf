@@ -21,6 +21,9 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,ps,git,docker,kubernetes,jenkins,grafana,discord,vscode,pr,vite,powershell,cloudflare,elasticsearch,github,gradle,vscode,vercel,githubactions" />
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,c,vim"
+    />
   </a>
 </p>
 
