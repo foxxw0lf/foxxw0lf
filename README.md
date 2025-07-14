@@ -23,7 +23,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,ps,git,docker,kubernetes,jenkins,grafana,vscode,pr,vite,powershell,cloudflare,elasticsearch,github,gradle,vscode,vercel,githubactions" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,deepseek,claude,huggingface,cursor,microsoftcopilot,gemini,githubcopilot,chrome,chromedevtools,androidstudio,lightroom,nvidia,wsl,terminal,virtualbox,word,excel,gitbash,githubpages" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,deepseek,claude,huggingface,cursor,microsoftcopilot,gemini,githubcopilot,chrome,chromedevtools,edge,firefox,androidstudio,lightroom,nvidia,wsl,terminal,virtualbox,word,excel,gitbash,githubpages" />
   </a>
 </p>
 
