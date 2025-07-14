@@ -20,7 +20,7 @@
 ## 🛠️ Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps,git,docker,kubernetes,jenkins,grafana,discord,vscode,pr,vite,powershell" />
+    <img src="https://skillicons.dev/icons?i=figma,ps,git,docker,kubernetes,jenkins,grafana,discord,vscode,pr,vite,powershell,cloudflare,elasticsearch,github,gradle" />
   </a>
    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> 
