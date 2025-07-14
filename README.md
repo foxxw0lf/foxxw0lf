@@ -12,6 +12,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,php,laravel,java,dart,flutter,python,nodejs,mysql,postman,tailwind,py" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=filament,codeigniter,livewire	" />
   </a>
 </p>
 
@@ -21,9 +22,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,ps,git,docker,kubernetes,jenkins,grafana,discord,vscode,pr,vite,powershell,cloudflare,elasticsearch,github,gradle,vscode,vercel,githubactions" />
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,c,vim"
-    />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,deepseek,claude,huggingface,cursor,microsoftcopilot,chrome,chromedevtools,androidstudio," />
   </a>
 </p>
 
