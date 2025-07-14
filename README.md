@@ -13,6 +13,7 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31luhtpabuygv4idw6sper63xake" alt="Spotify Recently Played"/>
   </a>
 </p>
+
 ---
 
 ## 🚀 Tech Stack
