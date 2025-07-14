@@ -23,7 +23,18 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,ps,git,docker,kubernetes,jenkins,grafana,discord,vscode,pr,vite,powershell,cloudflare,elasticsearch,github,gradle,vscode,vercel,githubactions" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,deepseek,claude,huggingface,cursor,microsoftcopilot,gemini,githubcopilot,chrome,chromedevtools,androidstudio,lightroom,nvidia,wsl,terminal" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,deepseek,claude,huggingface,cursor,microsoftcopilot,gemini,githubcopilot,chrome,chromedevtools,androidstudio,lightroom,nvidia,wsl,terminal,virtualbox" />
+  </a>
+</p>
+
+---
+
+---
+
+## 🛠️ Media Used
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=discord,steam,linkedin,facebook,x,telegram,gmail,telegram,youtube,instagram,onedrive,reddit" />
   </a>
 </p>
 
