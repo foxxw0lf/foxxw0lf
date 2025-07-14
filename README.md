@@ -12,6 +12,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,php,laravel,java,dart,flutter,python,nodejs,mysql,postman,tailwind,py" />
+    &nbsp;&nbsp;&nbsp;
     <img src="https://go-skill-icons.vercel.app/api/icons?i=filament,codeigniter,livewire" />
   </a>
 </p>
