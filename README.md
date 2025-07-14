@@ -8,6 +8,10 @@
 
 ---
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31luhtpabuygv4idw6sper63xake&count={count})
+
+---
+
 ## 🚀 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
